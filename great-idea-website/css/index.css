@@ -76,44 +76,135 @@ header nav{
 header nav a{
 	margin-right: 50px;
 	font-size: 14px;
-	color: gray;
+	color: silver;
 	padding-top: 2%;
+	text-decoration: none;
 }
 
 header .logo{
-	margin: 5% 0 0 15%;
+	margin: 3.5% 0 0 15%;
 }
 
 
 .top-content{
 	display: inline-block;
-	margin: 0 auto;
+	margin: 0 10%;
 	width: 80%;
+	padding-top: 5%;
+	
+	text-align: center;
 	
 }
 
 .cta-text{
 	display: inline-block;
-	margin: 0 0 0 25%;
+	margin: 0 0 0 15%;
+	padding-right: 10%;
+
 }
 
 h1{
 	font-size: 60px;
 	text-align: center;
+	letter-spacing: 2px;
 }
 
 button{
-	width: 5%;
-	height: 5%;
+	width: 140px;
+	height: 30px;
+  	border: 1px solid black;
+  	color: black;
+  	text-align: center;
+  	text-decoration: none;
+	font-size: 14px;
+	letter-spacing: .5px;
+	font-family: Titillium Web;
+	
+	  
 }
 
 .topcontent .img{
-	
-	margin-left: 200px;
+	padding-left: 40%;
 }
 
 .middle-content{
-	display: inline;
+	display: inline-block;
+	margin: 5% 0 0 10%;
+	border-top: 1px solid black;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	width: 80%;
 
 }
-	
+
+.features{
+	display: inline-block;
+	width: 44%;
+	text-align: justify;
+}
+
+.about{
+	display: inline-block;
+	width: 55%;
+	padding-left: 50px;
+	text-align: justify;
+}
+
+.middle-img{
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+}
+
+.bottom-content{
+	display: inline-block;
+	margin: 5% 0 0 10%;
+	border-bottom: 1px solid black;
+	padding-bottom: 4%;
+	width: 80%; 
+}
+
+.services{
+	display: inline-block;
+	width: 33%;
+	text-align: justify;
+}
+
+.product{
+	display: inline-block;
+	width: 33%;
+	padding-left: 2%;
+	text-align: justify;
+}
+
+.vision{
+	display: inline-block;
+	width: 33%;
+	padding-left: 2%;
+	text-align: justify;
+}
+
+.contact{
+	display: block;
+	text-align: justify;
+	width: 80%;
+	margin-left: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	line-height: 1.2;
+
+}
+
+.number-email{
+	line-height: 2.5;
+	padding-top: 3%;
+}
+
+footer{
+	text-align: center;
+	width: 90%;
+	margin-bottom: 15%;
+}
+
+
