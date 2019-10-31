@@ -104,7 +104,7 @@ header .logo{
 }
 
 h1{
-	font-size: 60px;
+	font-size: 80px;
 	text-align: center;
 	letter-spacing: 2px;
 }
@@ -119,6 +119,7 @@ button{
 	font-size: 14px;
 	letter-spacing: .5px;
 	font-family: Titillium Web;
+	
 	
 	  
 }
@@ -145,8 +146,8 @@ button{
 
 .about{
 	display: inline-block;
-	width: 55%;
-	padding-left: 50px;
+	width: 50%;
+	padding-left: 55px;
 	text-align: justify;
 }
 
